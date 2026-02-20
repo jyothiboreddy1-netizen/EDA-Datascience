@@ -1,6 +1,7 @@
 # EDA-Datascience
 My EDA on a churn telecom data that gave many meaningful and very useful insights. There are many surprising insights. These insights can solve many churn problems; it shows who are the major churners and the reason for churn.
 
+
 Insights:
 
 1.Senior citizens are more likely to Churn when compared to non-senior citizens.
@@ -13,6 +14,7 @@ Insights:
 
 5.Total Charges increase as Monthly Charges increase.
 
+
 Surprising Insights:
 
 1.Churn is high when Monthly Charges ar high
@@ -23,6 +25,7 @@ Surprising Insights:
 
 If we combine the insights of 3 parameters i.e. Tenure, Monthly Charges & Total Charges then the picture is bit clear :- Higher Monthly Charge at lower tenure results into lower Total Charge. Hence, all these 3 factors viz Higher Monthly Charge, Lower tenure and Lower Total Charge are linkd to High Churn.
 
+
 Insights from bar graph:
 
 1.HIGH Churn seen in case of Month to month contracts, No online security, No Tech support, First year of subscription and Fibre Optics Internet.
@@ -30,6 +33,7 @@ Insights from bar graph:
 2.LOW Churn is seens in case of Long term contracts, Subscriptions without internet service and The customers engaged for 5+ years.
 
 3.Factors like Gender, Availability of PhoneService and # of multiple lines have alomost NO impact on Churn.
+
 
 Major conclusion:
 
